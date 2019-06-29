@@ -1,0 +1,3 @@
+Facebook login and the graph api using the JavaScript SDK
+Add your app ID (https://developers.facebook.com/apps/)
+Open index.html
